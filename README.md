@@ -5,7 +5,7 @@
 ## Abstract
 Knowing its customers is essential for a company’s success. Esp. in the age of e-commerce, where customers became just rows of lists, it is important to target them more individually. The traces buyers leave in an online-store, allow detailed insights on their habits how they interact with an organization. Their purchase history contains all transactional data to build meaningful customer segments. These segments allow more targeted communication and actions towards customers.
 
-The motivation behind this thesis is to investigate the value of clus- tering in the machine learning/data mining context for customer seg- mentation. Classical database marketing methods are combined with data mining tools. Data mining techniques can be used to create the segments automatically. The outcome shows that machine learning can be applied successfully for the needs of small and medium orga- nizations and can help in handling a growing customer base.
+The motivation behind this thesis is to investigate the value of clustering in the machine learning/data mining context for customer segmentation. Classical database marketing methods are combined with data mining tools. Data mining techniques can be used to create the segments automatically. The outcome shows that machine learning can be applied successfully for the needs of small and medium organizations and can help in handling a growing customer base.
 
 ## Contents
 1. Introduction
@@ -43,8 +43,13 @@ The motivation behind this thesis is to investigate the value of clus- tering in
         4. Numberofclusters
 7. Conclusions
 
-## Exemplary data visualisations and outcomes
+## Exemplary data visualisations and outcomes (based on Shopify Store Data)
 The underlying data for the analysis was collected from a Shopify store with about 5.000 customers, 12.000 orders, and a total of 30.000 sold items.
 
-Inline-style: 
-![alt text](https://github.com/zinyosrim/customer-clustering-thesis/raw/Kmeans_transformed.png "Logo Title Text 1")
+### K-Means applied on aggregated customer data with the dimensions Recency, Frequency and Monetary Value
+![alt text](https://github.com/zinyosrim/customer-clustering-thesis/raw/master/Kmeans_transformed.png "Aggregated customer data of a Shopify store was clustered using the K-Means algorithm")
+
+### The Cohort Analysis applied to Shopify data shows to which extent a store is doing well with regard to customer retention 
+![alt text](https://github.com/zinyosrim/customer-clustering-thesis/raw/master/Cohort_analysis.png "Cohort Analysis applied on aggregated customer data of a Shopify store")
+
+*Stay tuned, more to come...*
