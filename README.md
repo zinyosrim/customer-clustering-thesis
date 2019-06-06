@@ -42,3 +42,9 @@ The motivation behind this thesis is to investigate the value of clus- tering in
         3. Cluster boundaries
         4. Numberofclusters
 7. Conclusions
+
+## Exemplary data visualisations and outcomes
+The underlying data for the analysis was collected from a Shopify store with about 5.000 customers, 12.000 orders, and a total of 30.000 sold items.
+
+Inline-style: 
+![alt text](https://github.com/zinyosrim/customer-clustering-thesis/raw/Kmeans_transformed.png "Logo Title Text 1")
