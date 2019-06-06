@@ -35,7 +35,7 @@ The motivation behind this thesis is to investigate the value of clus- tering in
        2. Agglomerative
        3. DBSCAN
 6. Evaluation
-    1. C.ohort Analysis
+    1. Cohort Analysis
     2. Clustering using the RFM approach
         1. Quality ofs segmentation
         2. Cluster sizes
