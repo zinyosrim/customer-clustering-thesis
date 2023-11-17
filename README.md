@@ -1,5 +1,4 @@
-**Preliminary Note
-The thesis is complete and submitted in April, 201. It will be made public here once the marking process is done**
+The thesis is complete and submitted in April, 2019.
 
 ## Bachelor Thesis
 # Application of Data Mining Methods for Customer Clustering
